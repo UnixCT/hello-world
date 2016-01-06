@@ -1,3 +1,3 @@
 # hello-world
 just another repository
-hello,myfriend,this is my first program in github.
+hello,my friend,this is my first program in github.
